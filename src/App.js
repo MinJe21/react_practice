@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          20241028 react OSS class
+          It's due to 2024-11-09-Sat
         </p>
         <Hello />
         <Component1 />

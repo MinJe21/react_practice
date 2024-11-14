@@ -3,7 +3,7 @@ import './App.css';
 import Component1 from './component1';
 import Hello from './components/Hello'
 import Component2 from './componet2';
-
+import C20241114 from './components/C20241114';
 function App() {
   return (
     <div className="App">
@@ -12,9 +12,10 @@ function App() {
         <p>
           It's due to 2024-11-09-Sat
         </p>
-        <Hello />
+        <Hello name="김민제" />
         <Component1 />
         <Component2 />
+        <C20241114 />
         <a
           className="App-link"
           href="https://reactjs.org"

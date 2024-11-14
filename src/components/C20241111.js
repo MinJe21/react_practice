@@ -1,6 +1,6 @@
-import './Hello.css';
+import React from 'react';
 
-function Hello(props){
+export default function C20241111(props){
     return (
         <>
         <h1>Hello!!</h1>
@@ -8,5 +8,3 @@ function Hello(props){
         </>
     );
 }
-
-export default Hello;

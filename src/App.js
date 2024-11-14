@@ -15,7 +15,6 @@ function App() {
         <Hello name="김민제" />
         <Component1 />
         <Component2 />
-        <C20241114 />
         <a
           className="App-link"
           href="https://reactjs.org"
